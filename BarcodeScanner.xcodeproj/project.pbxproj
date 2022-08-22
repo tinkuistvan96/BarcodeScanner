@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4FFC13B427D3D46900078BE5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFC13B327D3D46900078BE5 /* AppDelegate.swift */; };
-		4FFC13B827D3D46900078BE5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFC13B727D3D46900078BE5 /* ViewController.swift */; };
+		4FFC13B827D3D46900078BE5 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFC13B727D3D46900078BE5 /* HomeViewController.swift */; };
 		4FFC13BD27D3D46D00078BE5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FFC13BC27D3D46D00078BE5 /* Assets.xcassets */; };
 		4FFC13C027D3D46D00078BE5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FFC13BE27D3D46D00078BE5 /* LaunchScreen.storyboard */; };
 		4FFC13C827D3DEDE00078BE5 /* ScannerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFC13C727D3DEDE00078BE5 /* ScannerViewController.swift */; };
@@ -20,7 +20,7 @@
 /* Begin PBXFileReference section */
 		4FFC13B027D3D46900078BE5 /* BarcodeScanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BarcodeScanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FFC13B327D3D46900078BE5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4FFC13B727D3D46900078BE5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4FFC13B727D3D46900078BE5 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		4FFC13BC27D3D46D00078BE5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4FFC13BF27D3D46D00078BE5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4FFC13C127D3D46D00078BE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		4FC10BBA28B27B9D009A3A88 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				4FFC13B727D3D46900078BE5 /* ViewController.swift */,
+				4FFC13B727D3D46900078BE5 /* HomeViewController.swift */,
 				4FFC13C727D3DEDE00078BE5 /* ScannerViewController.swift */,
 				4FFC13C927D63D9C00078BE5 /* TabBarController.swift */,
 				4FFC13CB27D63E7900078BE5 /* BarcodeTableViewController.swift */,
@@ -160,7 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4FFC13CC27D63E7900078BE5 /* BarcodeTableViewController.swift in Sources */,
-				4FFC13B827D3D46900078BE5 /* ViewController.swift in Sources */,
+				4FFC13B827D3D46900078BE5 /* HomeViewController.swift in Sources */,
 				4FFC13CE27D63EFF00078BE5 /* Barcode.swift in Sources */,
 				4FFC13CA27D63D9C00078BE5 /* TabBarController.swift in Sources */,
 				4FFC13C827D3DEDE00078BE5 /* ScannerViewController.swift in Sources */,

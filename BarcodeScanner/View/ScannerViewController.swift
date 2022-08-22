@@ -24,7 +24,6 @@ class ScannerViewController: UIViewController, AVCaptureMetadataOutputObjectsDel
         setup()
         style()
         layout()
-        
     }
     
     override func viewWillAppear(_ animated: Bool) {
